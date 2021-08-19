@@ -1,0 +1,12 @@
+@import url("http://fonts.cdnfonts.com/css/operator-mono");
+
+body {
+  font-family: "Operator Mono", sans-serif;
+}
+
+.calculator {
+  text-align: -webkit-center;
+}
+.calculator button {
+  width: 45px;
+}
